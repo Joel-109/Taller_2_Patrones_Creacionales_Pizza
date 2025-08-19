@@ -1,4 +1,4 @@
-"# DYAS-GoF-Patterns-Creational-PizzaFactory" 
+# DYAS-GoF-Patterns-Creational-PizzaFactory
 
 Correr los siguientes comandos
 
@@ -8,6 +8,6 @@ mvn exec:java -Dexec.mainClass="edu.unisabana.pizzafactory.consoleview.Preparado
 ```
 
 Integrantes:
-Joel Alba 
-Julian Pedraza
+Joel Alba,  
+Julian Pedraza,
 Camilo Otalora
